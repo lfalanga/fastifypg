@@ -24,3 +24,4 @@ This template provides an arquitecture to develop a fake API REST.
 - order responses by different properties.
 - check all status codes.
 - implement swagger.
+- import dotenv at index.js
